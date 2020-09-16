@@ -4,8 +4,9 @@
  */
 
 // Стили для файла с примером HTML-фрагмента
-@import "./base/normalize";
-@import "./utils/variables";
-@import "./utils/mixin";
-@import "./base/common";
-@import "./layout/body";
+@import './base/normalize';
+@import './utils/variables';
+@import './utils/mixin';
+@import './base/common';
+@import './layout/body';
+@import './reviews-section/review-section';

@@ -1,14 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
-    background-color:$light-bg-color;
-    color: $primary-text-color;
-  
-    font-family: 'Montserrat', sans-serif;
-    font-size: 12px;
-    font-weight: 500;
-    line-height: 1.67;
-    
-  }
- 
-  
+  background-color: $light-bg-color;
+  color: $primary-text-color;
 
-
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1.67;
+}
