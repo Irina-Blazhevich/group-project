@@ -82,6 +82,10 @@ color: #FF6B09;
   background-color: #FF6B09;     
 }
 
+.problems-item-link:not(:last-child){
+  margin-bottom: 5px;
+}
+
 
 .problems-item:not(:last-child){
   margin-bottom: 10px;
