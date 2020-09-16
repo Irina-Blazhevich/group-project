@@ -9,7 +9,7 @@ letter-spacing: 0.03em;
 color: $logo-color;
 }
 .warnt{
-    font-weight: 500;
+font-weight: 500;
 font-size: 20px;
 line-height: 164.9%;
 
@@ -17,7 +17,7 @@ letter-spacing: 0.08em;
 color: $nav-color;
 }
 .quarantee{
-    font-weight: bold;
+font-weight: bold;
 font-size: 20px;
 line-height: 164.9%;
 
@@ -25,3 +25,22 @@ letter-spacing: 0.08em;
 
 color: $logo-color;
 }
+.promise{
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 164.9%;
+
+letter-spacing: 0.08em;
+
+color:$logo-color;
+}
+.methods{
+    display: flex;
+}
+.methods-item{
+    display: flex;
+    align-items: center;
+}
+
+
